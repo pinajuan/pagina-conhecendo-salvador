@@ -1,3 +1,38 @@
 :root {
   font-family: 'Open Sans', 'serif';
 }
+
+span {
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h1 {
+  color: 1B1B1B;
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+img {
+  width: 100%;
+  border-radius: 28px;
+}
+
+figcaption {
+  color: 333333;
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 24px;
+}
+
+div {
+  margin-left: 42px;
+}
+
+section {
+  margin-top: 64px;
+}
